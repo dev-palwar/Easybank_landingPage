@@ -1,0 +1,55 @@
+section,
+.main {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+
+    .info {
+        margin: 20px;
+        padding: 22px 53px;
+
+        h1 {
+            font-weight: 300;
+            color: #2d314d;
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.5;
+            opacity: 0.4;
+            margin-bottom: 20px;
+        }
+    }
+
+    .images {
+        height: 41rem;
+        width: 100%;
+        position: relative;
+
+        &::before {
+            content: "";
+            position: absolute;
+            height: 100%;
+            background-repeat: no-repeat;
+            background-position: center bottom;
+            background-image: url("https://codercoder-easybank.pages.dev/images/bg-intro-desktop.svg");
+            width: 100%;
+            background-size: 153%;
+            background-position: 18% 68%;
+        }
+
+        &::after {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: url("https://codercoder-easybank.pages.dev/images/image-mockups.png");
+            background-size: 93%;
+            background-repeat: no-repeat;
+            background-position: center;
+
+        }
+    }
+}
