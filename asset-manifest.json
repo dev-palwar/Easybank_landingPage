@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dev-palwar/Easybank_landingPage/static/css/main.b61132ee.css",
-    "main.js": "/dev-palwar/Easybank_landingPage/static/js/main.92d4e1bd.js",
-    "static/media/logo.svg": "/dev-palwar/Easybank_landingPage/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg",
-    "index.html": "/dev-palwar/Easybank_landingPage/index.html",
-    "main.b61132ee.css.map": "/dev-palwar/Easybank_landingPage/static/css/main.b61132ee.css.map",
-    "main.92d4e1bd.js.map": "/dev-palwar/Easybank_landingPage/static/js/main.92d4e1bd.js.map"
+    "main.css": "/Easybank_landingPage/static/css/main.b61132ee.css",
+    "main.js": "/Easybank_landingPage/static/js/main.20182066.js",
+    "static/media/logo.svg": "/Easybank_landingPage/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg",
+    "index.html": "/Easybank_landingPage/index.html",
+    "main.b61132ee.css.map": "/Easybank_landingPage/static/css/main.b61132ee.css.map",
+    "main.20182066.js.map": "/Easybank_landingPage/static/js/main.20182066.js.map"
   },
   "entrypoints": [
     "static/css/main.b61132ee.css",
-    "static/js/main.92d4e1bd.js"
+    "static/js/main.20182066.js"
   ]
 }
